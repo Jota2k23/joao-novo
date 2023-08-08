@@ -7,9 +7,9 @@
   }
   
   body {
-    width: 100;
-    min-height: 85vh;
-    background: linear-gradient(50deg, #00dbde 40%, #fc00ff 40%);
+    width: 80%;
+    min-height: 100vh;
+    background: linear-gradient(50deg, #00dbde 40%, #fc00ff 10%);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -20,7 +20,7 @@
     border-radius: 10px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
     width: 400px;
-    max-width: 90%;
+    max-width: 80%;
     overflow: hidden;
   }
   
@@ -68,7 +68,7 @@
   }
   
   .form button {
-    background-color: red;
+    background-color: green;
     border: 2px solid #fc00ff;
     color: #fff;
     font-size: 14px;
